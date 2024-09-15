@@ -31,7 +31,7 @@ Execute the script\.py script. You can run it from the command line:
 The script will generate all possible combinations of images and save them in the output directory.
 
 ## Additional Notes
-- Make sure your input images are the same size and in PNG format.
+- Make sure your input images are the same shape and in PNG format.
 - The script combines images in a way that the images from the last layers will be on top of the images from the earlier layers.
 - For a better understanding of how to organize your input images, take a look at the example folder in the repository.
 - Depending on the number and size of input images, the script may take some time to execute, especially for a large number of combinations.
